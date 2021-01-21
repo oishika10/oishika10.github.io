@@ -1,0 +1,35 @@
+.logo {
+	font-size: 30px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+* {
+   font-size: 16px;
+}
+
+.social-links{
+	margin-top: 20px;
+}
+
+.social-links a{
+	height: 35px;
+	width: 35px;
+	display: inline-block;
+	text-align: center;
+	line-height: 35px;
+	color: #ffffff;
+	margin: 0 4px;
+	border-radius: 50%;
+	text-decoration: none;
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
+.social-links a:hover{
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.courseworklist {
+	padding-top: 25px;
+}
