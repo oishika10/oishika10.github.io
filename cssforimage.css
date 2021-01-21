@@ -1,12 +1,12 @@
 img {
-   width: 20%; // current width
-   height: auto; // current height
+   width: 20%; 
+   height: auto; 
 }
 
 @media (max-width:767px) and and (min-device-width: 375px) {
  img {
-   width: 60%; // new width for screen <768px
-   height:auto; // new height for screen <768px
+   width: 60%; 
+   height:auto; 
  }
 }
 
