@@ -4,7 +4,7 @@
 }
 
 * {
-   font-size: 14px;
+   font-size: 16px;
 }
 
 .social-links{
@@ -30,7 +30,4 @@
 	transform: scale(1.1);
 }
 
-.courseworklist {
-	padding-top: 25px;
-}
-
+.courseworklist 
