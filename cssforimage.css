@@ -1,11 +1,11 @@
 img {
-   width: 20%; 
+   width: 15%; 
    height: auto; 
 }
 
-@media (max-width:767px) and and (min-device-width: 375px) {
+@media (max-width:767px) and (min-device-width: 375px) {
  img {
-   width: 300%; 
+   width: 25%; 
    height:auto; 
  }
 }
