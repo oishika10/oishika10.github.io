@@ -5,7 +5,7 @@ img {
 
 @media (max-width:767px) and and (min-device-width: 375px) {
  img {
-   width: 60%; 
+   width: 300%; 
    height:auto; 
  }
 }
