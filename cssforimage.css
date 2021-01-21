@@ -3,9 +3,9 @@ img {
    height: auto; // current height
 }
 
-@media (max-width:767px){
+@media (max-width:767px) and and (min-device-width: 375px) {
  img {
-   width: 40%; // new width for screen <768px
+   width: 60%; // new width for screen <768px
    height:auto; // new height for screen <768px
  }
 }
